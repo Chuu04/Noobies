@@ -1,3 +1,23 @@
-p1 {
-    font-family: ' font-family: Roboto, sans-serif;';
-    }
+header{
+    font-family: 'Segoe UI';
+    width: 95%;
+  padding-left: 15px;
+  margin-left: 15px;
+  font-style: bold;
+  background-color: rgb(219, 197, 222);
+
+}
+main {
+    font-family:'sans serif';
+   
+
+}
+aside {
+    font-family: Arial;
+  width: 25%;
+  padding-left: 10px;
+  margin-left: 10px;
+  float: right;
+  font-style: italic;
+  background-color: rgb(219, 197, 222);
+}
